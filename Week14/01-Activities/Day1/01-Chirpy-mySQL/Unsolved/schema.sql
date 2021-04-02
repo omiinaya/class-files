@@ -1,0 +1,18 @@
+CREATE DATABASE chirpy;
+USE chirpy;
+
+CREATE TABLE `chirps` (
+
+  CREATE DATABASE CHIRPY;
+
+USE chirpy;
+
+CREATE TABLE chirps (
+id INT AUTO_INCREMENT,
+author VARCHAR(45) NOT NULL,
+chirp VARCHAR(45),
+time VARCHAR(45),
+PRIMARY KEY (id)
+);
+
+);
